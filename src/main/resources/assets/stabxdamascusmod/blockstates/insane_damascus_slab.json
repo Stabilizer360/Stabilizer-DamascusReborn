@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "stabxdamascusmod:block/insane_damascus_slab"
+    },
+    "type=double": {
+      "model": "stabxdamascusmod:block/insane_damascus_block"
+    },
+    "type=top": {
+      "model": "stabxdamascusmod:block/insane_damascus_slab_top"
+    }
+  }
+}

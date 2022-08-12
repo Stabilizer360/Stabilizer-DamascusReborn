@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button_pressed",
+  "textures": {
+    "texture": "stabxdamascusmod:block/insane_damascus_block"
+  }
+}

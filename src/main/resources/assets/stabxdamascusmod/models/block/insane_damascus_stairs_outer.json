@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "stabxdamascusmod:block/insane_damascus_block",
+    "top": "stabxdamascusmod:block/insane_damascus_block",
+    "side": "stabxdamascusmod:block/insane_damascus_block"
+  }
+}

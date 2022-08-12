@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "stabxdamascusmod:block/insane_damascus_block"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+    "texture": "stabxdamascusmod:block/insane_damascus_block"
+  }
+}
