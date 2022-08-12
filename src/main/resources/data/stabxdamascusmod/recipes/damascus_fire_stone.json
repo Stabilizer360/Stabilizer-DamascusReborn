@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "stabxdamascusmod:damascus_ingot"
+    },
+    {
+      "item": "minecraft:flint_and_steel"
+    }
+  ],
+  "result": {
+    "item": "stabxdamascusmod:damascus_fire_stone"
+  }
+}

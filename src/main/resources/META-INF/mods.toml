@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+[[mods]]
+modId="stabxdamascusmod"
+version="1.1"
+displayName="StabxDamascusMod 1.1"
+logoFile="Stabilizer King Dynasty  Damascus Mod.png"
+credits="All rights resereved by Stabilizerking Dynasty's Gaming Studio"
+authors="Stabilizer King Dynasty"
+description='''
+This is the mod that adds Damascus Armor and tools which is better than netherite!
+'''
+[[dependencies.stabxdamascusmod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[36,)"
+   ordering="NONE"
+    side="BOTH"
+[[dependencies.stabxdamascusmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"

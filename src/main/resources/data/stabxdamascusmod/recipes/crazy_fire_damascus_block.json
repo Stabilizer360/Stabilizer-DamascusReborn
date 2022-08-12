@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XSX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "item": "stabxdamascusmod:insane_damascus_block"
+    },
+    "S": {
+      "item": "stabxdamascusmod:damascus_fire_stone"
+    }
+  },
+  "result": {
+    "item": "stabxdamascusmod:crazy_fire_damascus_block"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "XSX",
+    "XXX"
+  ],
+  "key": {
+    "X": {
+      "tag": "forge:ingots/damascus_ingot"
+    },
+    "S": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "stabxdamascusmod:advanced_damascus_ore"
+  }
+}

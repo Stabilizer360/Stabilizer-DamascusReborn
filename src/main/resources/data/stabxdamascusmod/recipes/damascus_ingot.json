@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "USR",
+    "STS",
+    "USR"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:emerald"
+    },
+    "S": {
+      "item": "minecraft:diamond"
+    },
+    "T": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "U": {
+      "item": "stabxdamascusmod:broken_damascus_ingot"
+    }
+  },
+  "result": {
+    "item": "stabxdamascusmod:damascus_ingot"
+  }
+}

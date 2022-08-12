@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "X X",
+    " X "
+  ],
+  "key": {
+    "X": {
+      "item": "stabxdamascusmod:insane_damascus_block"
+    }
+  },
+  "result": {
+    "item": "stabxdamascusmod:insane_damascus_button"
+  }
+}

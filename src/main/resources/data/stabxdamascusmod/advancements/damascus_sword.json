@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "stabxdamascusmod:damascus_sword"
+    },
+    "title": "You are the Chosen One!",
+    "description": "Upgrade to  Damascus sword",
+    "background": "blue",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "minecraft:adventure/shoot_arrow",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "stabxdamascusmod:damascus_sword"
+          }
+        ]
+      }
+    }
+  }
+}

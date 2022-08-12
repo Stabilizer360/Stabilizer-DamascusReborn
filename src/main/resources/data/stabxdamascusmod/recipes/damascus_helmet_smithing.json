@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_helmet"
+  },
+  "addition": {
+    "item": "stabxdamascusmod:damascus_ingot"
+  },
+  "result": {
+    "item": "stabxdamascusmod:damascus_helmet"
+  }
+}

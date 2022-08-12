@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "damascus_ingot",
+  "ingredients": [
+    {
+      "item": "stabxdamascusmod:insane_damascus_block"
+    }
+  ],
+  "result": {
+    "item": "stabxdamascusmod:damascus_ingot",
+    "count": 10
+  }
+}

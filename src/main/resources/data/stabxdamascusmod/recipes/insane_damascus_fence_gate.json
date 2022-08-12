@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#W#",
+    "#W#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "W": {
+      "item": "stabxdamascusmod:insane_damascus_block"
+    }
+  },
+  "result": {
+    "item": "stabxdamascus:insane_damascus_fence_gate"
+  }
+}

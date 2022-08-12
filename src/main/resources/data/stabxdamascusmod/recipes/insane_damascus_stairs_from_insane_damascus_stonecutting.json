@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "stabxdamascusmod:insane_damascus_block"
+  },
+  "result": "stabxdamascusmod:insane_damascus_stairs",
+  "count": 2
+}
